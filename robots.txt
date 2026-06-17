@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# EDITAR: reemplazar por el dominio final
+Sitemap: https://www.florenciagonzalez.com.ar/sitemap.xml

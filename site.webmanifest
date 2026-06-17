@@ -1,0 +1,18 @@
+{
+  "name": "Florencia González — Contadora Pública",
+  "short_name": "FG Contadora",
+  "description": "Asesoría contable e impositiva en Neuquén, para personas y empresas.",
+  "lang": "es-AR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#134E4A",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
