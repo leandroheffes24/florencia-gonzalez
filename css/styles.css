@@ -752,8 +752,8 @@ ul { list-style: none; padding: 0; }
   --paper:        #F4EFE5;   /* fondo papel cálido */
   --paper-2:      #ECE4D4;   /* banda alterna */
   --card:         #FBF8F2;   /* superficie clara */
-  --espresso:     #241A1A;   /* banda oscura */
-  --espresso-2:   #2E2120;
+  --espresso:     #1B1A1D;   /* banda oscura (carbón neutro) */
+  --espresso-2:   #262428;   /* variante para tarjetas oscuras */
   --ed-ink:       #221A18;   /* texto principal */
   --ed-muted:     #6B5F57;   /* texto secundario */
   --rule:         #DBCFBB;   /* línea fina */
